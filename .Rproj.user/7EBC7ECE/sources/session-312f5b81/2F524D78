@@ -3,7 +3,7 @@
     "path": "C:/7차학기/응용통계학/stat-25/source/test.R",
     "project_path": "source/test.R",
     "type": "r_source",
-    "hash": "2134119373",
+    "hash": "0",
     "contents": "",
     "dirty": true,
     "created": 1758718143095.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,63",
+        "cursorPosition": "22,29",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1758719930377,
+    "last_content_update": 1758720111618,
     "read_only": false,
     "read_only_alternatives": []
 }
