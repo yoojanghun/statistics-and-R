@@ -1,0 +1,17 @@
+x <- c(1, 2, 3)   # combine 함수 여러 값을 하나의 벡터로 묶어줌
+
+class(x)          # class 함수 data type 확인 함수 (typeof() 함수도 있음)
+
+mean(x)           # 평균 계산 함수
+
+length(x)         # 변수의 원소 개수 
+
+head(x)           # 데이터의 처음 몇 행을 보여주는 함수
+
+summary(x)        # 데이터 요약 통계량 제공 함수(min, max, median 등)
+
+ls()              # 사용중인 변수 목록 보여주는 함수
+
+?mean             # ?함수이름 또는 help(함수이름) => 함수 도움말
+
+??plot            # ??주제 또는 help.search(주제) => 특정 주제에 대한 도움말 검색
